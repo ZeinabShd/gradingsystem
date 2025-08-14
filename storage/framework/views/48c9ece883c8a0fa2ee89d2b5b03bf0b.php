@@ -1,0 +1,2 @@
+<h1>Welcome to the Grades Page</h1>
+<p>This page is under construction. Please check back later for updates.</p><?php /**PATH C:\Users\Zeinab\Desktop\grading\resources\views/grade.blade.php ENDPATH**/ ?>
